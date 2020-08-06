@@ -1,0 +1,138 @@
+a {
+  text-decoration: none;
+  color: #64853a;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: white;
+}
+
+body{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Niconne', cursive;
+  font-size: 5.625rem;
+  color: #55968f;
+  margin: 50px auto 0;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #55968f;
+  padding: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #8acbbb;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #8acbbb;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #8acbbb;
+  position: relative;
+  padding: 100px;
+}
+
+.pawprint1Pic{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pawprint2Pic{
+  position: absolute;
+  left: 330px;
+  bottom: 270px;
+}
+
+.word-cat-underline{
+  text-decoration: underline;
+}
+
+.mainPhoto{
+  width: 70%;
+  border-radius: 50%;
+}
+
+.middle-container{
+  margin: 100px auto;
+}
+
+.skills{
+  margin-bottom: 300px;
+}
+
+.profile{
+  width: 33%;
+  margin: auto;
+}
+
+.companyPhoto{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.basketPhoto{
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skillrow1{
+  width: 50%;
+  margin: 100px auto 200px;
+  text-align: left;
+}
+
+.skillrow2{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.contact-me-text {
+  margin: 40px auto 60px;
+  width: 33%;
+}
+
+.btn {
+  background-color: #55968f;
+  color: white;
+  margin-top: 50px;
+  padding: 8px;
+  border-radius: 5%;
+}
+
+.btn:hover {
+  background-color: #c9f658;
+}
+
+.bottom-container{
+  background-color: #55968f;
+  padding: 50px 0 20px;
+}
+
+.copyright{
+color: #ebf5df;
+font-size: 0.75rem;
+}
